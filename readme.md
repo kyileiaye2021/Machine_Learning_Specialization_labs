@@ -12,3 +12,6 @@
 ### Recommendation System
 ###### - Collaborative Filtering Algorithm
 ###### - Content-based Filtering Algorithm
+### Reinforcement Learning
+###### - Deep Q Network (for continuous state and action space)
+###### - Iterative loop of Bellman Equation (for discrete state and action space)
