@@ -9,3 +9,6 @@
 # Unsupervised Learning Algorithms
 ### K-Means Clustering
 ### Anomaly Detection
+### Recommendation System
+###### - Collaborative Filtering Algorithm
+###### - Content-based Filtering Algorithm
